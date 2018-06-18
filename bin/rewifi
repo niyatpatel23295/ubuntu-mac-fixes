@@ -1,0 +1,4 @@
+sudo service network-manager stop
+#ifconfig wlp3s0 down
+#ifconfig wlp3s0 up
+sudo service network-manager start

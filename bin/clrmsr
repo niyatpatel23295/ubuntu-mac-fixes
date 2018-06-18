@@ -1,0 +1,1 @@
+sudo wrmsr -a 0*19a 0*0
